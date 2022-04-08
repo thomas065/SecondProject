@@ -1,2 +1,4 @@
-# SecondProject
-Starting Coder Foundry lessons.
+# Second Project
+Starting Coder Foundry lessons.  Hello Everyone.
+
+
